@@ -10,7 +10,7 @@
 
 ## 📁 Projeto Desenvolvido
 
-### 🔹 Sistema Educacional Superior
+### 🔹Cidade Inteligente - Sistema Educacional Superior
 
 O projeto consistiu na modelagem completa de um **sistema educacional superior**, incluindo todas as etapas essenciais de **modelagem de banco de dados**:
 
@@ -62,3 +62,4 @@ O projeto consistiu na modelagem completa de um **sistema educacional superior**
 ---
 
 Este repositório demonstra toda a prática de **Modelagem de Banco de Dados aplicada a um sistema real**, destacando organização, integridade e planejamento de dados para ambientes educacionais superiores.
+
