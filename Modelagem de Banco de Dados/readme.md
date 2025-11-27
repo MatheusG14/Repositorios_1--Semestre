@@ -22,13 +22,16 @@ O projeto consistiu na modelagem completa de um **sistema educacional superior**
 2. **Modelo Lógico**
    - Conversão do diagrama ER para um modelo lógico.
    - Representação de tabelas, colunas e tipos de dados.
-   - Aplicação das restrições de integridade (PK, FK, Not Null, Unique).
+   - Aplicação das restrições de integridade (PK, FK e Not Null).
 
 3. **Modelo Físico**
    - Implementação do banco de dados no **pgAdmin 4 (PostgreSQL)**.
    - Criação de tabelas, relacionamentos e índices.
    - Testes de consistência e integridade dos dados.
 
+4. **Dicionário de Dados**
+- Foi feito um dicionário de dados referente ao modelo físico.
+- Tem a função de deixar evidente todas as Entidades, atributos, relacionamentos e restrições do modelo físico produzido. 
 ---
 
 ## 🧰 Stack Tecnológica
@@ -62,4 +65,5 @@ O projeto consistiu na modelagem completa de um **sistema educacional superior**
 ---
 
 Este repositório demonstra toda a prática de **Modelagem de Banco de Dados aplicada a um sistema real**, destacando organização, integridade e planejamento de dados para ambientes educacionais superiores.
+
 
