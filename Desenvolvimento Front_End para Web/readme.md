@@ -14,7 +14,7 @@
 Template responsivo utilizando **Materialize CSS**, com efeito parallax e elementos baseados em Material Design.
 
 ### **Prova A1**
-Projeto de avaliação da disciplina, desenvolvido apenas com **HTML** e **CSS**, demonstrando domínio dos fundamentos de Front-End.
+Projeto de avaliação da disciplina, desenvolvido com **HTML**,**CSS** e **Javascript** demonstrando domínio dos fundamentos de Front-End.
 
 ---
 
@@ -32,4 +32,5 @@ Projeto de avaliação da disciplina, desenvolvido apenas com **HTML** e **CSS**
 - Utilização de frameworks CSS (Bootstrap e Materialize)  
 - Organização e estilização com HTML e CSS  
 - Versionamento com Git e GitHub  
+
 
