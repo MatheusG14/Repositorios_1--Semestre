@@ -57,7 +57,7 @@ O projeto consistiu na modelagem completa de um **sistema educacional superior**
 ## 📥 Como usar este projeto
 
 1. Abra o **pgAdmin 4** ou sua ferramenta SQL favorita.  
-2. Crie um banco de dados novo, por exemplo: `SistemaEducacional`.  
+2. Crie um banco de dados novo, por exemplo: `Cidade_Educacao`.  
 3. Utilize os scripts SQL ou crie as tabelas conforme o **Modelo Físico**.  
 4. Insira dados de teste para validar relacionamentos e integridade.  
 5. Execute consultas SQL para gerar relatórios e verificar consistência dos dados.  
@@ -65,5 +65,6 @@ O projeto consistiu na modelagem completa de um **sistema educacional superior**
 ---
 
 Este repositório demonstra toda a prática de **Modelagem de Banco de Dados aplicada a um sistema real**, destacando organização, integridade e planejamento de dados para ambientes educacionais superiores.
+
 
 
