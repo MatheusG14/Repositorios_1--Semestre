@@ -1,0 +1,21 @@
+pessoa(cod_pessoa, cod_instituicao FK, nome, email, data_nascimento, CPF, numero, cep, bairro, cidade, estado)
+professor(cod_pessoa FK, departamento, titulação)
+funcionario(cod_pessoa FK, cod_cargo FK)
+aluno(cod_pessoa FK, cod_turma FK, historico_escolar)
+
+instituicao(cod_instituicao, nome, email, numero, cep, bairro, cidade, estado)
+curso(cod_curso, carga_horaria, nome)
+disciplina(cod_disciplina, nome)
+turma(cod_turma, capacidade, nome, data, horário)
+tipo(cod_tipo, nome)
+sala(cod_sala, cod_tipo FK, localizacao, capacidade, tamanho, nome)
+cargo(cod_cargo, nome, salario)
+
+telefone(cod_pessoa FK, DDD, numero)
+
+int_cur(cod_curso FK, cod_instituicao FK)
+dis_cur(cod_disciplina FK, cod_curso FK)
+dis_sal(cod_disciplina FK, cod_sala FK)
+dis_tur(cod_disciplina FK, cod_turma FK)
+sal_tur(cod_sala FK, cod_turma FK)
+tur_prof(cod_turma FK, cod_pessoa FK)
