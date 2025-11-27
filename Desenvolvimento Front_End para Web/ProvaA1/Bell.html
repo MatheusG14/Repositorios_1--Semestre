@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bell 525 Relentless</title>
+    
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="logo">
+      <a href="index.html">
+        <img src="imagens/logo.jpeg" alt="Helicópteros de Luxo">
+      </a>
+    </div>
+
+    <ul id="menu">
+      <li><a href="Eurocopter.html">Eurocopter</a></li>
+      <li><a href="Bell.html">Bell</a></li>
+      <li><a href="Mercedes.html">Mercedes</a></li>
+    </ul>
+
+    <div class="menu-toggle" id="menu-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </nav>
+    <main>
+    <section id="coluna-section">
+        <div class="coluna">
+            <h2>Bell 525 Relentless</h2>
+            <img src="imagens/bell.jpg" alt="Bell 525 Relentless">
+            <p>O Bell 525 Relentless é um helicóptero utilitário de alta performance, conhecido por sua velocidade e eficiência. Com capacidade para um piloto e seis passageiros, ele é ideal para missões de transporte executivo e serviços médicos de emergência. <br><p>O Bell 525 Relentless leva 20 passageiros mais dois pilotos, é equipado com duas turbinas GE CT7-2F1, capazes de levá-lo a uma velocidade de até 260 km/h. <br>A cabine de passageiros possui duas portas de acesso de cada lado, uma rebatível para a primeira fileira de assentos e a outra corrediça. <br>Outro destaque da aeronave é o trem de pouso retrátil, como o de um avião.
+</p>
+</p>
+        </div>
+  </section>
+
+
+    </main>
+
+    <footer>
+        <p>Explore os Helicópteros de Luxo mais fantásticos e luxuosos</p>
+        <a href="https://www.facebook.com/BellFlight">Facebook</a> | 
+        <a href="https://www.instagram.com/bellflight/">Instagram</a> | 
+        <a href="https://twitter.com/BellFlight">Twitter</a>
+        <p>© 2025 Helicópteros de Luxo — Todos os direitos reservados</p>
+    </footer>
+<script>
+  const menuToggle = document.getElementById('menu-toggle');
+  const menu = document.getElementById('menu');
+
+  menuToggle.addEventListener('click', () => {
+    menu.classList.toggle('show');  
+    menuToggle.classList.toggle('active');
+  });
+</script>
+
+</body>
+</html>
