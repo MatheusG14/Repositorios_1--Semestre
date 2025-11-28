@@ -1,35 +1,38 @@
-# DesignProfissional_A1
-# <h1 align="center">DesignProfissional_A1</h1>
+<h1 align="center">DesignProfissional_A1</h1>
+📚 Curso: Análise e Desenvolvimento de Sistemas – 1º Semestre
 
-## 📚 ADS – 1º Semestre
-**Aluno: Matheus Gomes Costa Teixeira**
-**Instituição: UDF-CENTRO UNIVERSITÁRIO**
+Aluno: Matheus Gomes Costa Teixeira
+Instituição: UDF – Centro Universitário
 
-Este repositório reúne os projetos desenvolvidos ao longo do semestre nas disciplinas do curso de **Análise e Desenvolvimento de Sistemas**.  
-O objetivo principal é demonstrar:
+Este repositório reúne os projetos, exercícios e atividades desenvolvidas ao longo do primeiro semestre do curso de Análise e Desenvolvimento de Sistemas.
+O objetivo é apresentar:
 
-- 📌 Posicionamento e identidade profissional  
-- 🗂️ Organização digital  
-- 💼 Engajamento com o mercado de tecnologia por meio de práticas reais  
+📌 Construção e fortalecimento da identidade profissional
 
----
+🗂️ Organização e padronização de artefatos digitais
 
-## 📁 Disciplinas
+💼 Aproximação com práticas reais do mercado de tecnologia
 
-- **Algoritmos e Pensamento Computacional**  
-- **Desenvolvimento Front-End para Web**  
-- **Modelagem de Banco de Dados**  
-- **Design Profissional**
+📁 Disciplinas Incluídas
 
-Cada disciplina possui sua própria pasta com projetos, exercícios e evidências de aprendizagem.
+Algoritmos e Pensamento Computacional
 
----
+Desenvolvimento Front-End para Web
 
-## 🧭 Como navegar neste repositório?
+Modelagem de Banco de Dados
 
-Acesse o arquivo **`README.md`** dentro de cada pasta para visualizar:
+Design Profissional
 
-- O que foi desenvolvido na disciplina  
-- As principais entregas  
-- Tecnologias e ferramentas utilizadas  
-- Links ou demonstrações (se houver)
+Cada disciplina possui uma pasta dedicada contendo materiais, códigos, relatórios e demais evidências de aprendizagem.
+
+🧭 Como navegar neste repositório
+
+Dentro de cada pasta, acesse o arquivo README.md para visualizar:
+
+📝 Descrição da disciplina
+
+📂 Atividades e entregas realizadas
+
+🛠️ Tecnologias, ferramentas e metodologias utilizadas
+
+🔗 Links, demonstrações e artefatos complementares (quando houver)
