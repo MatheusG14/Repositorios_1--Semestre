@@ -2,6 +2,8 @@
 # <h1 align="center">DesignProfissional_A1</h1>
 
 ## 📚 ADS – 1º Semestre
+**Aluno: Matheus Gomes Costa Teixeira**
+**Instituição: UDF-CENTRO UNIVERSITÁRIO**
 
 Este repositório reúne os projetos desenvolvidos ao longo do semestre nas disciplinas do curso de **Análise e Desenvolvimento de Sistemas**.  
 O objetivo principal é demonstrar:
